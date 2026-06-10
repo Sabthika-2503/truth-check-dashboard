@@ -2,16 +2,16 @@
 
 ## Project Overview
 
-Truth Check Dashboard is a web-based fact-checking application developed to analyze the authenticity of news content, text claims, and URLs. The system helps users identify potentially fake or misleading information by generating authenticity scores and providing detailed verification results through an interactive dashboard.
+Truth Check Dashboard is a web-based fact-checking application developed to analyze and verify the authenticity of news articles, text claims, and URLs. The system helps users identify potentially fake or misleading information by generating authenticity scores and providing detailed verification results through an interactive dashboard.
 
-In addition to fact-checking, the application displays related content and similar news articles below the user's input, helping users compare information and gain additional context before making conclusions.
+The application also displays related content and similar news articles below the user's input, allowing users to compare information and gain additional context before making decisions.
 
-## Key Features
+## Features
 
 * Text claim verification and analysis
 * URL authenticity and trustworthiness analysis
 * Fake vs Real score generation
-* Related news/content recommendations
+* Related news and content recommendations
 * Activity history tracking
 * RESTful API implementation using Express.js
 * Request logging and rate limiting
@@ -37,56 +37,80 @@ In addition to fact-checking, the application displays related content and simil
 
 ## How the System Works
 
-1. The user enters a news article, claim, or URL.
+1. The user enters a news article, text claim, or URL.
 2. The application processes the input using the fact-checking service.
 3. Authenticity scores are generated based on predefined analysis logic.
-4. The system classifies the content and provides a verification result.
-5. Related news and similar content are displayed below the user's input to provide additional context.
-6. The query and analysis results are stored in the database for history tracking.
+4. The system classifies the content and provides verification results.
+5. Related news and similar content are displayed below the user's input.
+6. The query and analysis results are stored for history tracking.
+
+## Installation & Usage
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/Sabthika-2503/truth-check-dashboard.git
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run Server
+
+```bash
+node server.js
+```
+
+### 4. Open Application
+
+Backend Server:
+
+```text
+http://localhost:3000
+```
+
+Frontend Application:
+
+```text
+http://127.0.0.1:5500/fake-info-dash.html
+```
 
 ## API Endpoints
 
 ### Health Check
 
+```http
 GET /api/health
+```
 
 ### Analyze Text
 
+```http
 POST /api/analyze/text
+```
 
 ### Analyze URL
 
+```http
 POST /api/analyze/url
+```
 
 ### View History
 
+```http
 GET /api/history
+```
 
 ## Benefits
 
 * Helps users identify misleading information
 * Encourages informed decision-making
-* Provides supporting related content for comparison
+* Provides supporting content for comparison
 * Improves awareness of fake news and misinformation
 * Demonstrates full-stack web development concepts
-
-## Installation
-
-1. Clone repository
-
-git clone https://github.com/yourusername/truth-check-dashboard.git
-
-2. Install dependencies
-
-npm install
-
-3. Run server
-
-node server.js
-
-4. Open application
-
-http://localhost:3000
 
 ## Future Enhancements
 
@@ -101,7 +125,7 @@ http://localhost:3000
 
 ## Author
 
-Sabthikaroselin
+**Sabthikaroselin**
 
 ## Project Type
 
