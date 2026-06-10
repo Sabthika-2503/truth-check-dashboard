@@ -1,0 +1,59 @@
+Science: "Water boils at 100'Celsius at below sea level"
+
+History: "Neil Armstrong and Buzz Aldrin were the first humans to walk on the moon in 1969."
+
+Astronomy: "The Earth revolves around the Sun in a heliocentric solar system."
+
+Medical History: "Alexander Fleming discovered the antibiotic penicillin in 1928."
+
+Geography: "Mount Everest is the highest mountain above sea level on Earth."
+
+Biology: "DNA stands for Deoxyribonucleic acid and carries genetic information."
+
+Physics: "Albert Einstein developed the theory of general relativity."
+
+History: "The RMS Titanic sank in the North Atlantic Ocean in April 1912."
+
+Genetics: "Humans share approximately 98% of their DNA with chimpanzees."
+
+Physiology: "The average adult human body is composed of roughly 60% water."
+
+Physics: "Light travels significantly faster than the speed of sound."
+
+Global Affairs: "The United Nations was officially founded in 1945 following World War II."
+
+History: "World War I officially ended with the signing of the Treaty of Versailles."
+
+Geography: "Antarctica is the coldest, driest, and windiest continent on Earth."
+
+Chemistry: "The chemical symbol for Gold on the periodic table is Au."
+
+Conspiracy: "The Earth is completely flat and surrounded by a giant, guarded ice wall."
+
+Tech/Medical Disinformation: "5G cellular network towers are responsible for creating and transmitting the COVID-19 virus."
+
+Conspiracy: "Routine vaccines contain tracking microchips designed by Bill Gates to monitor the global population."
+
+Neurology Myth: "Human beings only use 10% of their brains."
+
+Historical Conspiracy: "NASA faked the 1969 Apollo 11 moon landing in a Hollywood movie studio."
+
+Dangerous Medical Myth: "Drinking household bleach or injecting disinfectants is a safe cure for viral infections."
+
+Space Myth: "The Great Wall of China is the only man-made structure visible from space with the naked eye."
+
+Biology Myth: "Goldfish have a maximum memory span of only three seconds."
+
+Weather Myth: "Lightning never strikes the exact same place twice."
+
+Medical Myth: "Cracking your knuckles frequently will directly cause arthritis."
+
+Animal Myth: "Bulls are enraged specifically by the color red."
+
+Digestion Myth: "If you swallow chewing gum, it takes your body seven years to digest it."
+
+Animal Myth: "All bats are completely blind and rely entirely on echolocation."
+
+Satirical Conspiracy: "Birds aren't real; they were replaced by government surveillance drones."
+
+Nutrition Myth: "Eating sugar causes children to become hyperactive."
